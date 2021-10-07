@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LuxologyGG
-- 👀 I’m interested in python
+- 👀 I’m interested in java
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on a clothing business
-- 📫 How to reach me is Discord. Luxology#1337
+- 📫 How to reach me is Discord. Luxology#6440
