@@ -1,5 +1,19 @@
-- 👋 Hi, I’m @LuxologyGG
-- 👀 I’m interested in java
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on a clothing business
-- 📫 How to reach me is Discord. Luxology#6440
+<!--          o              
+          \              
+           \      /\     
+            \    /  o    
+             \__/        
+     _______ /  \_________
+    | __________________  |
+    ||"'``'DEVELOPED#'~:|_|
+    ||";";.,`~BY'+.:',!`|O|
+    ||.;',`'`LUXY:.`~,;'|O|
+    ||':'""`~`"'`'`::'`'|o|    
+    ||.:',~;~'`;'`.,:'`;|_|  
+    ||-'`:'`0k.wtf.";/;`| | 
+    ||'`'`~';?;`:`.,`.:'| |  
+    |'------------------' | 
+    '---------------------' -->
+Developing biolinks/websites
+https://0k.wtf
+Post skidded scripts
