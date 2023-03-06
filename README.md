@@ -14,6 +14,6 @@
     ||'`'`~';?;`:`.,`.:'| |  
     |'------------------' | 
     '---------------------' 
-Developing biolinks/websites
-https://0k.wtf
-Post skidded scripts
+- Developing biolinks/websites
+- https://0k.wtf
+- Post skidded scripts
