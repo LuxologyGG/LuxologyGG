@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 218" width="490" height="218">
+<style>.mono { font-family: SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace; font-size: 13px; }.label { fill: #39d353; font-weight: 600; }.value { fill: #c9d1d9; }.dim { fill: #8b949e; }</style>
+<rect x="0" y="0" width="490" height="218" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<rect x="0" y="0" width="490" height="34" rx="8" fill="#161b22"/>
+<rect x="0" y="26" width="490" height="8" fill="#161b22"/>
+<circle cx="18" cy="17" r="6" fill="#ff5f56"/>
+<circle cx="38" cy="17" r="6" fill="#ffbd2e"/>
+<circle cx="58" cy="17" r="6" fill="#27c93f"/>
+<text x="245" y="21" text-anchor="middle" class="mono dim">neofetch — luxologygg@github</text>
+<g opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.25s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-8 0" to="0 0" begin="0.00s" dur="0.25s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+<text x="18" y="56" class="mono label">Now</text>
+<text x="110" y="56" class="mono value">Founder</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.09s" dur="0.25s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-8 0" to="0 0" begin="0.09s" dur="0.25s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+<text x="18" y="80" class="mono label">Prev</text>
+<text x="110" y="80" class="mono value">Full-Stack Engineer</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.18s" dur="0.25s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-8 0" to="0 0" begin="0.18s" dur="0.25s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+<text x="18" y="104" class="mono label">Stack</text>
+<text x="110" y="104" class="mono value">HTML5 · CSS3 · JS · React · Figma · WordPress</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.27s" dur="0.25s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-8 0" to="0 0" begin="0.27s" dur="0.25s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+<text x="110" y="128" class="mono value">· Python · R · PHP · Node · Git · GitHub · npm</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.36s" dur="0.25s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-8 0" to="0 0" begin="0.36s" dur="0.25s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+<text x="110" y="152" class="mono value">· Vercel · Cloudflare · VS Code · Homebrew</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.25s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-8 0" to="0 0" begin="0.45s" dur="0.25s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+<text x="18" y="176" class="mono label">Highlights</text>
+<text x="110" y="176" class="mono value">Contributor — badges/shields (shields.io)</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.54s" dur="0.25s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-8 0" to="0 0" begin="0.54s" dur="0.25s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+<text x="110" y="200" class="mono value">Contributor — facebook/react</text>
+</g>
+</svg>
