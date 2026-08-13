@@ -1,6 +1,6 @@
 {
   "username": "luxologygg",
-  "fetched_at": "2026-08-12T07:54:09.823089Z",
+  "fetched_at": "2026-08-13T07:55:10.382871Z",
   "days": [
     {
       "date": "2025-08-10",
@@ -1839,14 +1839,19 @@
     },
     {
       "date": "2026-08-12",
+      "level": 1,
+      "count": 2
+    },
+    {
+      "date": "2026-08-13",
       "level": 0,
       "count": 0
     }
   ],
   "stats": {
-    "total_last_year": 972,
+    "total_last_year": 974,
     "current_streak": 0,
-    "longest_streak": 16,
+    "longest_streak": 17,
     "best_day": {
       "date": "2026-08-01",
       "level": 4,
@@ -1865,7 +1870,7 @@
       "2026-05": 160,
       "2026-06": 196,
       "2026-07": 363,
-      "2026-08": 174
+      "2026-08": 176
     }
   }
 }
