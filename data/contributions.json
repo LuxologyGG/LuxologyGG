@@ -1,42 +1,7 @@
 {
   "username": "luxologygg",
-  "fetched_at": "2026-10-17T10:47:35.596332Z",
+  "fetched_at": "2026-10-18T11:10:27.096740Z",
   "days": [
-    {
-      "date": "2025-10-12",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-13",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-14",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-15",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-16",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-17",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-18",
-      "level": 0,
-      "count": 0
-    },
     {
       "date": "2025-10-19",
       "level": 0,
@@ -1854,12 +1819,17 @@
     },
     {
       "date": "2026-10-17",
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-10-18",
       "level": 0,
       "count": 0
     }
   ],
   "stats": {
-    "total_last_year": 2018,
+    "total_last_year": 2019,
     "current_streak": 0,
     "longest_streak": 31,
     "best_day": {
@@ -1880,7 +1850,7 @@
       "2026-07": 377,
       "2026-08": 444,
       "2026-09": 515,
-      "2026-10": 247
+      "2026-10": 248
     }
   }
 }
